@@ -1,20 +1,23 @@
-<h1 align="center">Heyy, I'm Vitor Paes! Come explore my works!</h1>
+<h1 align="center">Hey, I'm Vitor! Come explore my works!</h1>
 
 <p align="center"><em>"I had to do it wrong before I could do it right."<br>— Tyler, The Creator</em></p>
 
----
+## Tecnologias
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorPaes-coder&theme=onedark&no-frame=true&margin-w=15&row=1" />
-</p>
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VitorPaes-coder&show_icons=true&theme=transparent&hide=prs,issues&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPaes-coder&layout=compact&theme=transparent" />
-</p>
+## Estatísticas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorPaes-coder&theme=transparent" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=VitorPaes-coder&color=blue&style=flat" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
+</div>
+
+![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
