@@ -11,13 +11,13 @@
 
 ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=whospaes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whospaes&layout=compact&theme=tokyonight)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whospaes&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whospaes&layout=compact&theme=tokyonight"/>
 </div>
 
-![Snake animation](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU_USER/whospaes/blob/output/github-contribution-grid-snake.svg)
